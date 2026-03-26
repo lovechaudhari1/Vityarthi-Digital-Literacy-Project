@@ -10,4 +10,4 @@
 * **For UPI safety: Double-check the name and ID of the person before sending money, and avoid scanning random QR codes.**
 * **Keep your apps and phone software updated to protect against security vulnerabilities.**
 * **Limit what you share on social media, your personal details can be misused for scams or identity theft.**
-* **If you ever face a cyber issue or suspect fraud, report it immediately through the National Cyber Crime Portal (cybercrime.gov.in) or call the helpline 1930. Acting quickly can make a big difference.**
+* **If you ever face a cyber issue or suspect fraud, report it immediately through the National Cyber Crime Portal (https://cybercrime.gov.in) or call the helpline 1930. Acting quickly can make a big difference.**
